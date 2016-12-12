@@ -2,3 +2,4 @@ build:
     environment:
         ruby:
             versions: 2.2.0
+            username:3eoruwor
