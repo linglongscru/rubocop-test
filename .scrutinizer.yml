@@ -1,4 +1,4 @@
 build:
     environment:
         ruby:
-            version:1.2.3
+            version: 2.2.0
